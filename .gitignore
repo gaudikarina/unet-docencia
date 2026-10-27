@@ -1,0 +1,14 @@
+# Respaldos y temporales de Proteus / CCS
+*.pdsbak
+*.pdsprj.*.workspace
+Last Loaded *.pdsprj
+Backup Of *
+*.err
+*.esym
+*.sym
+*.lst
+*.cof
+*.hex
+*.o
+Thumbs.db
+.DS_Store

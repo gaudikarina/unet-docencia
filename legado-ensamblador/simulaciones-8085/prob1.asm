@@ -1,0 +1,11 @@
+.ORG 6000H
+MVI	B,34H
+MOV	C,B
+MVI	A,07H
+ADI	03H
+DAA
+CPI	10
+STA	7100H
+HLT
+
+                          
